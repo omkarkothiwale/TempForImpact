@@ -1,3 +1,4 @@
+"""Optimal Solution"""
 class Solution:
 
     def solve(self, n):
@@ -33,6 +34,12 @@ s.solve(4)
 
 
 
+
+
+
+
+
+"""Brute Force approach"""
 
 # class Solution:
 #     def __init__(self):
